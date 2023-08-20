@@ -4,6 +4,7 @@ Open Source is at the core of what we do at SparkFun. The schematics, designs an
 
 ### Build Something
 * [Explore our latest products](https://www.sparkfun.com/categories/new_products)
+* [Explore the latest documentation and product tutorials](https://docs.sparkfun.com)
 * [Browse what's popular in our community](https://www.sparkfun.com/categories/top)
 * [Check out a tutorial or video](https://learn.sparkfun.com)
 * [Want something on the cutting-edge? See what's happening at SPARK-X](https://www.sparkfun.com/sparkx)
